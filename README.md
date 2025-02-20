@@ -36,7 +36,7 @@ Sorting Visualizer is a web application built using **React** that helps visuali
    The app will run at **http://localhost:3000/**
 
 ## 📸 Screenshots
-_(Add some screenshots of your app here)_
+
 
 ## 🛠️ Usage
 1. Select the sorting algorithm.
